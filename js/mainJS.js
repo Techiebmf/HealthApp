@@ -28,7 +28,7 @@ $(document).ready(function(){
         });
        
         var table = $('#data-table-id').DataTable({
-            fixedHeader: true,
+                fixedHeader: false,
                 ordering: true,
                 info:     true,
                 fixedColumns: true,

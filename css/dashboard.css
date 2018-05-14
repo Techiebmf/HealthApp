@@ -343,3 +343,6 @@ p.logout-text-bold {
     max-height: calc(100vh - 234px);
     overflow: auto;
 }
+.dataTables_wrapper .dataTables_paginate span {
+    display: inline-block;
+}
